@@ -25,3 +25,9 @@ GitHub Profile Finder is a simple web application that allows users to search fo
    git clone https://github.com/bhagwan88/GitHubProfileFinder.git
 
 2. Open the project folder and open the index.html file in your browser.
+
+
+## Acknowledgements
+GitHub API: Used to fetch user profile data.
+
+Font Awesome: For icons used in the project.
